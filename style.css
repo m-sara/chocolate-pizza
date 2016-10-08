@@ -1,0 +1,123 @@
+* {
+  /*align-items: center;
+  text-align: center;*/
+  margin-left: 3%;
+  margin-right: 5%;
+
+}
+
+.slash {
+  height: 10px;
+  background: url('assets/hrborder.png');
+  transform: scale(1,1.5);
+  repeat-x 0 0;
+  border: 0;
+}
+
+div.list2 {
+  /*padding-left: 4%;*/
+  /*align-self: center;
+  align-content: center;
+  text-align: center;*/
+  /*position: relative;*/
+}
+
+/*td {
+  display: inline-table;
+}*/
+
+tr {
+
+}
+
+div.header {
+  font-family: 'Oswald';
+  margin-right: 12%;
+}
+
+h6 {
+  font-variant: small-caps;
+  font-size: 15px;
+  color: #d7d7d7;
+
+
+}
+
+.headfoot1 {
+  /*text-align: left;*/
+
+}
+
+.headfoot2 {
+  padding-left: 500px;
+}
+
+.instructions {
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 18px;
+  /*font-weight: lighter;*/
+  text-shadow: 5px 2px 30px rgba(150, 150, 150, 0.5);
+}
+
+
+/*
+#wrapper {
+  padding-right: 10%;
+  position: relative;
+  border-bottom: 1px solid black;
+}
+*/
+
+
+.title {
+  text-align: left;
+}
+
+.list {
+  /*content: "";*/
+  background-image: url('assets/list-bg.png');
+  background-size: cover;
+  background-repeat: round;
+  border-top: 1px solid #f1f1f1;
+  font-size: 25px;
+  font-family: 'Just Another Hand';
+  letter-spacing: 2px;
+
+  /*border-right: 1px solid #D3D3D3;
+  border-left: 1px solid #D3D3D3;*/
+  /*border-bottom: 3px double #bdbdbd;
+  box-shadow: 2px 4px #e4e4e4;*/
+}
+
+/*.list::after {
+  background-color: #fcf7e0;
+  opacity: 1;
+}*/
+
+
+
+/*
+.list::after {
+  padding-top: 10px;
+  border-bottom: 3px solid #a8a8a8;
+}*/
+
+.ingredients {
+
+}
+
+/*checked {
+    text-decoration: line-through;
+}*/
+
+.column {
+  width: 400px;
+  padding-left: 5%;
+
+}
+
+.column2 {
+  width: 400px;
+  padding-left: 5%;
+  text-decoration: line-through;
+}
